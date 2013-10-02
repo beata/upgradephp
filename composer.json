@@ -1,0 +1,14 @@
+{
+    "name": "berlios/upgradephp",
+    "description": "Emulates functions from new PHP versions on older interpreters."
+    "type": "library",
+    "keywords": ["compatibility"],
+    "homepage": "http://include-once.org/p/upgradephp/",
+    "license": "Public Domain",
+    "authors": [
+        {
+            "name": "milky",
+            "email": "milky*users#sf#net",
+        }
+    ]
+}
