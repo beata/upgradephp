@@ -1,6 +1,6 @@
 {
     "name": "berlios/upgradephp",
-    "description": "Emulates functions from new PHP versions on older interpreters."
+    "description": "Emulates functions from new PHP versions on older interpreters.",
     "type": "library",
     "keywords": ["compatibility"],
     "homepage": "http://include-once.org/p/upgradephp/",
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "milky",
-            "email": "milky*users#sf#net",
+            "email": "milky*users#sf#net"
         }
     ]
 }
