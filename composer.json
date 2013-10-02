@@ -1,5 +1,5 @@
 {
-    "name": "berlios/upgradephp",
+    "name": "beata/upgradephp",
     "description": "Emulates functions from new PHP versions on older interpreters.",
     "type": "library",
     "keywords": ["compatibility"],
