@@ -1,0 +1,14 @@
+
+---- EXPECTED OUTPUT
+1_callback
+2
+data_callback
+array(2) {
+  ["a"]=>
+  string(10) "1_callback"
+  ["b"]=>
+  int(2)
+}
+---- ACTUAL OUTPUT
+
+---- FAILED
